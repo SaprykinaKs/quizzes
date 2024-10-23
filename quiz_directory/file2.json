@@ -1,0 +1,24 @@
+{
+    "quiz_name": "Основы программирования",
+    "questions": [
+      {
+        "question": "Какой тип данных используется для хранения целых чисел в Python?",
+        "options": ["int", "float", "str", "double"],
+        "correct_option": 0,
+        "score": 5
+      },
+      {
+        "question": "Какой оператор используется для возведения числа в степень в Python?",
+        "options": ["-", "**", "pow", "//"],
+        "correct_option": 1,
+        "score": 3
+      },
+      {
+        "question": "Какой результат будет у выражения 3 + 2 * 2?",
+        "options": ["5", "7", "19"],
+        "correct_option": 1,
+        "score": 4
+      }
+    ]
+  }
+  
